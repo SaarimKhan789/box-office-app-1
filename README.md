@@ -5,9 +5,10 @@
 
 <!-- 
 <h3>Preview:-</h3><br />
-<img src="" alt="preview-img"><br />
+<img src="" style="border-radius:1rem" alt="preview-img"><br />
 
 <h3>Link:-</h3><br />
+
 <br /><br />
 
 <h3>Language and suppoters used:-</h3><br />
