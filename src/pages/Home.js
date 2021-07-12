@@ -45,7 +45,6 @@ const Home = () => {
   const onChangeSearch = ev => {
     setSearchOption(ev.target.value);
   };
-  console.log('searchOption : ', searchOption);
 
   return (
     <MainPageLayout>
