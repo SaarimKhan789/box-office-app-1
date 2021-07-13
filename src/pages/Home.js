@@ -56,7 +56,7 @@ const Home = () => {
       />
 
       <div>
-        <lable htmlFor="show-search">
+        <label htmlFor="show-search">
           Shows
           <input
             type="radio"
@@ -65,8 +65,8 @@ const Home = () => {
             checked={isShowSearch}
             onChange={onChangeSearch}
           />
-        </lable>
-        <lable htmlFor="people-search ">
+        </label>
+        <label htmlFor="people-search ">
           Actors
           <input
             type="radio"
@@ -75,7 +75,7 @@ const Home = () => {
             checked={!isShowSearch}
             onChange={onChangeSearch}
           />
-        </lable>
+        </label>
       </div>
 
       <button type="button" onClick={onSearch}>
