@@ -62,7 +62,6 @@ const Show = () => {
   if (error) {
     return <div>Error : {error}</div>;
   }
-  console.log(show);
 
   return (
     <ShowPageWrapper>

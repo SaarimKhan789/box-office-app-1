@@ -17,13 +17,13 @@ const Seasons = ({ seasons }) => {
       <SeasonList>
         {seasons.map(season => (
           <div key={season.id} className="season-item">
-            <div className="Left">
+            <div className="left">
               <p>Season {season.number}</p>
               <p>
                 Episodes: <span>{season.episodeOrder}</span>
               </p>
             </div>
-            <div className="Right">
+            <div className="right">
               Aired:{' '}
               <span>
                 {season.premiereDate} - {season.endDate}
