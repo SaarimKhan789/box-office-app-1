@@ -1,6 +1,4 @@
-<h2 align="center">👋Hello! I am Vatsal Patel <br /><br /> and I made</h2><br /><br />
-
-<h2>Box-Office app using basic React.js</h2><br /><br />
+<h1 align="center">Box-Office WebApp ( React.js )</h1><br />
 <i>Under Development</i>
 
 <!-- 
@@ -18,3 +16,5 @@
   <li> CSS </li>
 </ul>  
 <br /><br /> -->
+
+<h2>👋 Vatsal P.</h2>
