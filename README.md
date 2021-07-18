@@ -1,4 +1,4 @@
-<h2>👋Hello! I am Vatsal Patel <br /><br />
+<h2>👋Hello! I am Vatsal Patel <br />
 
 <h2 align="center">Box-Office app using basic React.js</h2><br /><br />
 <i>Under Development</i>
