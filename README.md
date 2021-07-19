@@ -7,7 +7,9 @@
 <img src="/src/images/readme/desk1.png">
 <img src="/src/images/readme/desk2.png">
 <img src="/src/images/readme/desk3.png">
-
+<img height="5rem" src="/src/images/readme/mobile1.png">
+<img height="5rem" src="/src/images/readme/mobile2.png">
+<img height="5rem" src="/src/images/readme/mobile3.png">
 <br />
 
 <h3><a href="https://vatsal-git.github.io/box-office-app/#/">Link</a></h3><br />
