@@ -3,7 +3,7 @@ import React from 'react';
 const Title = ({ title, subtitle }) => (
   <div>
     <h1>{title}</h1>
-    <p>S{subtitle}</p>
+    <p>{subtitle}</p>
   </div>
 );
 
