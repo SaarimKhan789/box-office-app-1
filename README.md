@@ -8,8 +8,8 @@
 <img src="/src/images/readme/desk2.png">
 <img src="/src/images/readme/desk3.png">
 <img width=25% src="/src/images/readme/mobile1.jpg">
-<img src="/src/images/readme/mobile2.jpg">
-<img src="/src/images/readme/mobile3.jpg">
+<img width=25% src="/src/images/readme/mobile2.jpg">
+<img width=25% src="/src/images/readme/mobile3.jpg">
 <br />
 
 <h3><a href="https://vatsal-git.github.io/box-office-app/#/">Link</a></h3><br />
