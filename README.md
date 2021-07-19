@@ -4,11 +4,11 @@
 <p> A show searching tool. We can star shows which will persist even after page refresh</p><br />
 
 <h3>Preview:</h3>
-<img src="/src/images/readme/desk1.png">
-<img src="/src/images/readme/desk2.png">
-<img src="/src/images/readme/desk3.png">
-<img width=25% src="/src/images/readme/mobile1.jpg">
-<img width=25% src="/src/images/readme/mobile2.jpg">
+<img src="/src/images/readme/desk1.png"><hr />
+<img src="/src/images/readme/desk2.png"><hr />
+<img src="/src/images/readme/desk3.png"><hr />
+<img width=25% src="/src/images/readme/mobile1.jpg"><hr />
+<img width=25% src="/src/images/readme/mobile2.jpg"><hr />
 <img width=25% src="/src/images/readme/mobile3.jpg">
 <br />
 
