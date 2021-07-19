@@ -7,7 +7,7 @@
 <img src="/src/images/readme/desk1.png">
 <img src="/src/images/readme/desk2.png">
 <img src="/src/images/readme/desk3.png">
-<img src="/src/images/readme/mobile1.jpg">
+<img height="50%" src="/src/images/readme/mobile1.jpg">
 <img src="/src/images/readme/mobile2.jpg">
 <img src="/src/images/readme/mobile3.jpg">
 <br />
