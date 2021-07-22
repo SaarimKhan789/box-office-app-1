@@ -18,6 +18,3 @@
 <ul>
   <li>React.js</li>
 </ul>  
-<br />
-
-<h2>👋 Vatsal P.</h2>
